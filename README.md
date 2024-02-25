@@ -5,11 +5,13 @@ This Python script is designed to check for plagiarism among a set of text docum
 ## Usage
 
 Run the script, providing two command-line arguments:
-    - Input file containing a list of file names.
-    - The output file for recording similarity metrics..
+- Input file containing a list of file names.
+- The output file for recording similarity metrics.
 
-    ```bash
-    python input_file_1.txt input_file_2.txt output_file.txt
+## input.txt
+
+    ```
+    input_file_1.txt input_file_2.txt scores.txt
     ```
 
 ## Code Description
